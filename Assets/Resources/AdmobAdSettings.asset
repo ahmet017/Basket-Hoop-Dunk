@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da439ce4b163b84c8819dbdcce9ee81, type: 3}
+  m_Name: AdmobAdSettings
+  m_EditorClassIdentifier: 
+  testAdsEnabled: 0
+  androidInterstitialAdId: ca-app-pub-5840738909663078/2357383918
+  androidRewardedAdId: ca-app-pub-5840738909663078/7526746275
+  androidBannerAdId: ca-app-pub-5840738909663078/8128585343
+  androidNativeAdId: 
+  iosInterstitialAdId: 
+  iosRewardedAdId: 
+  iosBannerAdId: 
+  iosNativeAdId: 
+  initializationScene: 2
+  levelsToShowInterstitialAd: 3
+  loadInterstitialAdOnEverySceneLoad: 1
+  loadRewardedAdOnEverySceneLoad: 1
+  bannerSize: 0
+  displayBannerdOnEveryScene: 0
+  bannerIncludedScenePaths:
+  - Assets/Scenes/Game.unity
+  bannerPosition: 1

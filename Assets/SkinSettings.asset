@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1453d4c3cc54d43bfa553149e62461, type: 3}
+  m_Name: SkinSettings
+  m_EditorClassIdentifier: 
+  ballSkins:
+  - sprite: {fileID: 21300000, guid: ad9ee2b276cb79943aa3163f2c29d178, type: 3}
+  - sprite: {fileID: 21300000, guid: 4ecc46d614b25154b8ec376fa0a99642, type: 3}
+  - sprite: {fileID: 21300000, guid: 9c98818001e926746ba5c4f246d1cb44, type: 3}
+  - sprite: {fileID: 21300000, guid: 2ce42494583127e4182e2ee93c31633b, type: 3}
+  - sprite: {fileID: 21300000, guid: ffd7b1673e9a3564c87dca3046c45fc0, type: 3}
+  - sprite: {fileID: 21300000, guid: e76add72cb7fae249a04d685874ed2cc, type: 3}
+  - sprite: {fileID: 21300000, guid: ee5204c5a913bad48abcbf2b9a7d95dd, type: 3}
+  - sprite: {fileID: 21300000, guid: e197693ef4664ca458c444e5b3295b0e, type: 3}
+  - sprite: {fileID: 21300000, guid: 38973f7847951134aa52800d27d2441c, type: 3}
+  lineSkins:
+  - color: {r: 0.54901963, g: 0.54901963, b: 0.54901963, a: 1}
+  - color: {r: 0.9529412, g: 0.21176471, b: 0.21176471, a: 1}
+  - color: {r: 0.6, g: 1, b: 0, a: 1}
+  - color: {r: 1, g: 0.2901961, b: 0.94509804, a: 1}
+  - color: {r: 0.19215687, g: 0.65882355, b: 1, a: 1}
+  - color: {r: 0.20392157, g: 0.99215686, b: 0.96862745, a: 1}
+  - color: {r: 0.48235294, g: 0.15686275, b: 1, a: 1}
+  - color: {r: 0.27450982, g: 0.92941177, b: 0.69803923, a: 1}
+  - color: {r: 1, g: 0.6666667, b: 0, a: 1}
+  unlockAllSkins: 0

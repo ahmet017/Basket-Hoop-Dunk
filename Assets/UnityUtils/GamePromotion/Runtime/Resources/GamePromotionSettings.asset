@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341a7d0074841544aabc5bb1c7e2b594, type: 3}
+  m_Name: GamePromotionSettings
+  m_EditorClassIdentifier: 
+  otherGames:
+  - androidStoreUrl: https://codecanyon.net/item/math-puzzles-game-android-studio-admob/39168295
+    iosStoreUrl: https://codecanyon.net/item/math-puzzles-game-android-studio-admob/39168295
+    image: {fileID: 21300000, guid: ffa92f0c5c0457144a52e0eb28c9017d, type: 3}
+  - androidStoreUrl: https://codecanyon.net/item/air-hockey-game-unity-admob-leaderboard/40399417
+    iosStoreUrl: https://codecanyon.net/item/air-hockey-game-unity-admob-leaderboard/40399417
+    image: {fileID: 21300000, guid: b890751715f68fd489bb6f91f7cf6972, type: 3}
+  - androidStoreUrl: https://codecanyon.net/item/basket-dunk-unity-admob/44261578
+    iosStoreUrl: https://codecanyon.net/item/basket-dunk-unity-admob/44261578
+    image: {fileID: 21300000, guid: df99d98152fac3f468d9f36d2a0bb6d8, type: 3}
+  - androidStoreUrl: https://codecanyon.net/item/hoop-line-unity-admob/44721427
+    iosStoreUrl: https://codecanyon.net/item/hoop-line-unity-admob/44721427
+    image: {fileID: 21300000, guid: a5e40c49cbe38b74e814d58d1d78240b, type: 3}
+  - androidStoreUrl: https://codecanyon.net/item/stair-jump-unity-admob/45867597
+    iosStoreUrl: https://codecanyon.net/item/stair-jump-unity-admob/45867597
+    image: {fileID: 21300000, guid: e330573b81d4520478bba15d4f040b09, type: 3}
+  - androidStoreUrl: https://codecanyon.net/item/twist-jump-unity-admob/46252287
+    iosStoreUrl: https://codecanyon.net/item/twist-jump-unity-admob/46252287
+    image: {fileID: 21300000, guid: aba92fd63931c564c943b5ac1cae6a16, type: 3}
+  - androidStoreUrl: https://codecanyon.net/item/hopper-ball-unity-admob/46666740
+    iosStoreUrl: https://codecanyon.net/item/hopper-ball-unity-admob/46666740
+    image: {fileID: 21300000, guid: 6dac058d984e65c4294b85cc828068a5, type: 3}

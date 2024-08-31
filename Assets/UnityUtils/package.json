@@ -1,0 +1,18 @@
+{
+    "name" : "com.umitcan.unityutils",
+    "version" : "1.0.0",
+    "displayName": "Unity Utils",
+    "description": "",
+    "unity" : "2021.3",
+    "dependencies": {
+        "com.unity.vectorgraphics": "2.0.0-preview.12",
+        "com.unity.textmeshpro" : "3.0.6"
+    },
+    "registry": "https://staging-packages.unity.com",
+    "keywords": ["unity", "tools", "utils"],
+    "author": {
+        "name" : "Umit can Komur",
+        "email": "contact@umitcan.dev",
+        "url": "https://umitcan.dev/"
+    }
+}

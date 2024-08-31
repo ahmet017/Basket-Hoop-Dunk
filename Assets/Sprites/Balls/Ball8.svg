@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg2510"
+   sodipodi:docname="Ball10.svg"
+   width="1024"
+   height="1024"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:export-filename="Ball10.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2512"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.66998368"
+     inkscape:cx="364.18798"
+     inkscape:cy="561.2077"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2510" />
+  <defs
+     id="defs2485">
+    <linearGradient
+       id="c"
+       x1="364.95999"
+       x2="444.54001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f00"
+         offset="0"
+         id="stop2471" />
+      <stop
+         stop-color="#f30000"
+         offset=".88889"
+         id="stop2473" />
+      <stop
+         stop-color="#e70000"
+         offset="1"
+         id="stop2475" />
+    </linearGradient>
+    <radialGradient
+       id="b"
+       cx="100"
+       cy="100"
+       r="100"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="0"
+         id="stop2478" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset=".80556"
+         id="stop2480" />
+      <stop
+         stop-color="#b00000"
+         stop-opacity=".73451"
+         offset="1"
+         id="stop2482" />
+    </radialGradient>
+  </defs>
+  <g
+     transform="matrix(5.1197469,0,0,5.1199829,-1423.2897,-1814.3147)"
+     id="g2508">
+    <path
+       d="m 378,453.77 c 0,0 -13.747,8.5172 -12.326,23.787 1.4187,15.25 26.717,39.515 35.33,50.738 5.0759,6.6143 7.4053,13.482 8.5069,18.056 12.918,-4.4288 24.598,-11.543 34.418,-20.616 -4.1629,-3.9797 -11.166,-10.441 -16.667,-14.063 -8.1821,-5.387 -33.616,-11.743 -47.786,-25.13 -13.78,-13.019 -1.4757,-32.771 -1.4757,-32.771 z"
+       fill="url(#c)"
+       fill-rule="evenodd"
+       id="path2487"
+       style="fill:url(#c)" />
+    <path
+       transform="matrix(1.3889,0,0,1.3889,-108.11,-215.59)"
+       d="m 420,482.36 a 70,70 0 1 1 -140,0 70,70 0 1 1 140,0 z"
+       fill="#ffffff"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-width="4"
+       id="path2489" />
+    <path
+       id="a"
+       d="m 378,453.46 c 0,0 -13.747,8.8258 -12.326,24.096 1.4187,15.25 26.717,39.515 35.33,50.738 5.0759,6.6143 7.4053,13.482 8.5069,18.056 12.918,-4.4288 24.598,-11.543 34.418,-20.616 -4.1629,-3.9797 -11.166,-10.441 -16.667,-14.063 -8.1821,-5.387 -33.616,-11.743 -47.786,-25.13 -13.78,-13.019 -1.4757,-33.08 -1.4757,-33.08 z"
+       fill="#ff0000"
+       fill-rule="evenodd" />
+    <use
+       transform="matrix(0.70711,0.70711,-0.70711,0.70711,431.36,-134.47)"
+       width="200"
+       height="200"
+       xlink:href="#a"
+       id="use2492" />
+    <use
+       transform="rotate(90,378.0005,453.4595)"
+       width="200"
+       height="200"
+       xlink:href="#a"
+       id="use2494" />
+    <use
+       transform="matrix(-0.70711,0.70711,-0.70711,-0.70711,965.93,506.82)"
+       width="200"
+       height="200"
+       xlink:href="#a"
+       id="use2496" />
+    <use
+       transform="rotate(180,378,453.46)"
+       width="200"
+       height="200"
+       xlink:href="#a"
+       id="use2498" />
+    <use
+       transform="matrix(-0.70711,-0.70711,0.70711,-0.70711,324.64,1041.4)"
+       width="200"
+       height="200"
+       xlink:href="#a"
+       id="use2500" />
+    <use
+       transform="rotate(-90,378.0005,453.4595)"
+       width="200"
+       height="200"
+       xlink:href="#a"
+       id="use2502" />
+    <use
+       transform="matrix(0.70711,-0.70711,0.70711,0.70711,-209.93,400.1)"
+       width="200"
+       height="200"
+       xlink:href="#a"
+       id="use2504" />
+    <path
+       transform="translate(278,354.36)"
+       d="m 200,100 a 100,100 0 1 1 -200,0 100,100 0 1 1 200,0 z"
+       fill="url(#b)"
+       id="path2506"
+       style="fill:url(#b)" />
+  </g>
+</svg>
